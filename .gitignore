@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.safetensors
+*.parquet
+*.jsonl
+*.jpg
+*.png
+*.zip
+logs/
+out/
+checkpoints/
+.env*
